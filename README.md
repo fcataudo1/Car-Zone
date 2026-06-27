@@ -1,6 +1,6 @@
 # Car-Zone
 
-**Progetto di Ingegneria del Software – A.A. 2024/2025**
+**Progetto di Ingegneria del Software**
 Università degli Studi di Salerno
 
 ---
@@ -74,4 +74,4 @@ La cartella **Deliverables** contiene:
 
 ## 📚 Corso
 
-Progetto sviluppato nell'ambito del corso di **Ingegneria del Software** – **Università degli Studi di Salerno** (A.A. 2024/2025).
+Progetto sviluppato nell'ambito del corso di **Ingegneria del Software** – **Università degli Studi di Salerno**.
