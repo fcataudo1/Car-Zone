@@ -1,7 +1,7 @@
 # Car-Zone
 
 **Progetto di Ingegneria del Software**
-Università degli Studi di Salerno
+, Università degli Studi di Salerno.
 
 ---
 
