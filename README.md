@@ -7,7 +7,7 @@
 
 ## 📖 Descrizione del Progetto
 
-**Car-Zone** è una piattaforma e-commerce per la gestione, la ricerca e la vendita di autoveicoli.
+**Car-Zone** è una piattaforma e-commerce per la gestione, la ricerca e la vendita di auto.
 
 L'applicazione è sviluppata secondo un'architettura **Three-Tier**, che separa il livello di presentazione, la logica applicativa e la persistenza dei dati.
 
